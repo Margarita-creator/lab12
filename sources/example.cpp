@@ -1,5 +1,4 @@
-// Copyright by Enigma
-
+//Copyright by Margarita
 #include "example.hpp"
 void UsedMemory::OnDataLoad(const std::vector<Item>& old_items,
                             const std::vector<Item>& new_items) {

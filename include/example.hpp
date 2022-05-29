@@ -1,5 +1,4 @@
-// Copyright by Enigma
-
+//Copyright by Margarita
 #ifndef INCLUDE_EXAMPLE_HPP_
 #define INCLUDE_EXAMPLE_HPP_
 

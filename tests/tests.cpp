@@ -1,4 +1,4 @@
-// Copyright by Enigma
+//Copyright by Margarita
 
 #include "example.hpp"
 #include <gmock/gmock.h>
